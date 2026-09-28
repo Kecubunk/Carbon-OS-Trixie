@@ -60,3 +60,15 @@ Adding visual and voice Assistant  support local LLM ollama
 
 # Installing 
 Installing Carbon Netinstall 
+
+<p>
+<img src=" ">
+</p>
+
+<p>
+<img src=" ">
+</p>
+
+<p>
+<img src=" ">
+</p>
