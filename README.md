@@ -62,13 +62,13 @@ Adding visual and voice Assistant  support local LLM ollama
 Installing Carbon Netinstall 
 
 <p>
-<img src=" ">
+<img src="https://github.com/Kecubunk/Carbon-Gnome/blob/master/screenshot/Screenshot%20From%202026-09-28%2012-00-22.png ">
 </p>
 
 <p>
-<img src=" ">
+<img src="https://github.com/Kecubunk/Carbon-Gnome/blob/master/screenshot/Screenshot%20From%202026-09-28%2012-05-37.png">
 </p>
 
 <p>
-<img src=" ">
+<img src="https://github.com/Kecubunk/Carbon-Gnome/blob/master/screenshot/Screenshot%20From%202026-09-28%2012-08-42.png">
 </p>
